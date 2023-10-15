@@ -1,12 +1,16 @@
 ### Site Settings ###
 title               : Viyrl
 description         : >-
-                      From code 👨‍💻 to design 🎨, I skillfully roam,
-Adobe's suite 🖌️, and languages I own.
-Smooth teamwork 🤝, leadership I've honed
+                      Embrace the chaos, conquer the unknown. 💥🔥
+                      #FullStacKDev n' A Revolutionist 
+
+
+
+
+
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-#remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : eXtizi/porti
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -26,7 +30,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Pramuditha Vidushan
-  image             : https://i.imgur.com/TTMAtwX.jpg
+  image             : https://i.imgur.com/Qy8gVKU.jpg
   behance           : vidushan
 # dribbble          : your_username
   email             : Vidushan@viyrl.com
