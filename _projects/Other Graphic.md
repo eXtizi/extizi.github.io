@@ -29,7 +29,7 @@ description: These are a bunch of banners, arts etc done by me.
 ![preview](https://i.imgur.com/6tHJ4Wh.jpeg)
 # A Vector art of a Plate
 ![preview](https://i.imgur.com/9LindHu.jpeg)
-# A Instagram Banner
+# An Instagram Banner
 ![preview](https://i.imgur.com/ePicOoD.jpeg)
 # Customized map
 ![preview](https://i.imgur.com/hvV1YLR.png)
