@@ -18,7 +18,6 @@ open_new_tab        : true                             # Opens external URLs in 
 plugins:
   - jemoji
 
-workflow_dispatch:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
@@ -40,7 +39,7 @@ author:
 # gitlab            : your_username
   instagram         : imvidushan
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : imvidushan
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
