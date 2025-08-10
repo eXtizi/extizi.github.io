@@ -1,5 +1,3 @@
-✨ Good luck getting **16 stars**!! ✨
-
-📜 P.S.: Duh, this ends now! 
+✨ Good luck getting **10,000** stars!! ✨
 
 
